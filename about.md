@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Arcadus is a work in progress gaming platform, allowing anyone to create a game without knowing much about programming.
 
-### More Information
+## Motive
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I learned how to program from games such as Furcadia, Roblox and Garry's Mod. I want to inspire the next generation of programmers by allowing them to create modern games, with a low bar of entry and little programming skills.
